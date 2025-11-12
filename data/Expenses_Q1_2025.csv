@@ -1,1 +1,13 @@
-
+ExpenseID,Date,Category,Vendor,Description,Amount,ApprovedBy,Status
+EXP-2001,2025-01-02,Raw Materials,Steel Supplies Ltd,Steel sheets - 5 tons,12500.00,Procurement Manager,Paid
+EXP-2002,2025-01-04,Utilities,Manchester Energy,Electricity - January,3450.00,Finance Manager,Paid
+EXP-2003,2025-01-06,Salaries,Payroll,Employee salaries - January,145000.00,HR Director,Paid
+EXP-2004,2025-01-08,Maintenance,TechFix Services,Equipment repair,4200.00,Operations Manager,Paid
+EXP-2005,2025-01-10,Marketing,AdVision Agency,Q1 marketing campaign,18000.00,Marketing Director,Paid
+EXP-2006,2025-01-12,Insurance,SafeGuard Insurance,Annual premium installment,6750.00,Finance Manager,Paid
+EXP-2007,2025-01-15,Raw Materials,Plastic Components Co,Plastic parts - 10k units,8900.00,Procurement Manager,Paid
+EXP-2008,2025-01-18,Office Supplies,OfficeMax Ltd,Stationery and supplies,1200.00,Admin Manager,Paid
+EXP-2009,2025-01-20,Professional Fees,Legal Advisors LLP,Contract review,5500.00,CEO,Paid
+EXP-2010,2025-01-22,Transportation,LogiTrans Ltd,Freight and logistics,7800.00,Logistics Manager,Paid
+EXP-2011,2025-01-25,IT Services,CloudTech Solutions,Cloud hosting - Q1,2400.00,IT Manager,Paid
+EXP-2012,2025-01-28,Training,SkillUp Academy,Employee training program,3500.00,HR Director,Pending
