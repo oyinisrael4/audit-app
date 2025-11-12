@@ -1,1 +1,20 @@
-
+auditpro-mobile/
+│
+├── public/
+│   ├── index.html
+│   ├── logo192.png (optional)
+│   └── manifest.json
+│
+├── src/
+│   ├── App.js
+│   ├── index.js
+│   └── index.css
+│
+├── data/
+│   ├── Sales_Q1_2025.csv
+│   ├── Expenses_Q1_2025.csv
+│   └── Inventory_Jan_2025.csv
+│
+├── package.json
+├── README.md
+└── DEPLOYMENT.md (this file)
