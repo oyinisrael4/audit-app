@@ -1,1 +1,10 @@
-
+ItemCode,Description,Category,Quantity,UnitCost,TotalValue,Location,LastCounted
+WGT-A-001,Widget A - Standard,Finished Goods,2500,28.50,71250.00,Warehouse A,2025-01-30
+WGT-B-001,Widget B - Premium,Finished Goods,1200,42.00,50400.00,Warehouse A,2025-01-30
+WGT-C-001,Widget C - Deluxe,Finished Goods,800,58.00,46400.00,Warehouse B,2025-01-30
+RM-STEEL-01,Steel Sheets,Raw Materials,450,18.00,8100.00,Warehouse C,2025-01-29
+RM-PLASTIC-01,Plastic Components,Raw Materials,8500,1.20,10200.00,Warehouse C,2025-01-29
+PKG-BOX-01,Packaging Boxes,Packaging,5000,0.85,4250.00,Warehouse D,2025-01-30
+PKG-TAPE-01,Packaging Tape,Packaging,200,3.50,700.00,Warehouse D,2025-01-30
+TOOL-DRILL-01,Industrial Drill Bits,Tools,150,45.00,6750.00,Workshop,2025-01-28
+TOOL-WRENCH-01,Adjustable Wrenches,Tools,300,22.00,6600.00,Workshop,2025-01-28
